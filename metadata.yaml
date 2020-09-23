@@ -1,0 +1,20 @@
+_repo: Early-Printed-Books_63237
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Duff, E. (Edward) Gordon
+    gutenberg_agent_id: '52341'
+    url: http://www.gutenberg.org/2009/agents/52341
+description: ''
+gutenberg_issued: '2020-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63237'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Early Printed Books
+url: http://www.gutenberg.org/ebooks/63237
